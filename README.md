@@ -8,9 +8,9 @@ According to Jobzology, “Staff attrition refers to the loss of employees throu
 ## Reasons to Predict Employee Attrition
 With machine learning, HR managers will be able to foresee vacant positions, team budget needs, what employee benefits they can improve to keep employees happy, what departments are the most and least likely to stay at a position for a length of time, and more. As a business, you can predict questions like,
 
-## What causes employee churn?
-## Why do we lose valuable employees?
-## When will an employee most likely leave the company?
+#### What causes employee churn?
+#### Why do we lose valuable employees?
+#### When will an employee most likely leave the company?
 Predicting these things would save a lot of money in the long run. According to the Center of American Progress,
 “For positions that earn between $30,000 and $50,000 per year, the cost of replacement was found to be 20% of annual salary. For executives earning high salaries, the cost of replacement was found to be 213% of annual salary. (Boushey & Glynn, 2012). For example, an executive who earns $100,000 would cost $213,000 to replace.”
 
