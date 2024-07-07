@@ -1,6 +1,6 @@
 # Predictive Analytics in Human Resources <br>
-### By Praneel Rastogi - 53 <br> 
-### Aditya Mohan - 42 <br> 
+### By Praneel Rastogi  <br> 
+### Aditya Mohan <br> 
 
 
 The Human Resources department is in charge of taking care of employee’s well being and ensuring they are happy with their position. With machine learning you can actually predict employee attrition to see what causes a valuable employee to leave or stay with a company. This is perfect for HR managers planning their hiring and auditing employee experience.<br>
